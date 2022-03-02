@@ -5,24 +5,27 @@
 # MOVILIDAD 2.0 GDL
 
 Sistema de gestión de infracciones de movilidad
-## Versión 2.4.2
+## Versión 2.4.3
 
 **Correcciones:**
 
-- Se arregló el reporte diario.
-    - Se mejoró el formato que tiene.
-    - Imprime todas las infracciones que el agente realizó en el día seleccionado.
-    - Se entrega un recuento de las infracciones agrupadas por conceptos.
-- Se solucionó el problema en las reimpresiones.
-    - Si la foto 1 no existe se muestra la foto 2.
-- Se solucionó el problema en el onBack.
-    - Cuando el agente desea regresar a la pantalla de inicio después de haber levantado una infracción, el folio siguiente no será marcado como 'No Procesado'.
+- Infraccionar mediante PIM
+    - Se suben las infracciones realizadas desde PIM a parkimovil.
 
 **Mejoras:**
 
-- La Inteligencia Artificial para el reconocimiento de placas, se volvió optativo. 
-    - Si el agente le toma foto a las placas y decide escribirlas manualmente la Inteligencía Artificial no reemplazará lo que haya escrito.
-    - Si después de haber tomado la foto la Inteligencia Artificial detecta que el agente no ha escrito nada en el recuadro de placas la IA se las pondrá en automático.
+- Banner de consultas
+    - Consultas realizadas a parkimovil.
+    - Consultas de estatus a matriculas.
+
+- Subida de fotos rezagadas
+    - Matriculas con uno o dos caracteres cambiados.
+    - Alerta con la fotos que no se pudieron relaccionar con un registro.
+
+- Optimización de consultas a internet.
+    - Para la subida de fotos.
+    - Para la subida de infracciones.
+    - Para consultas a parkimovil.
 
 **Eliminaciones:**
 
