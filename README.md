@@ -5,20 +5,16 @@
 # MOVILIDAD 2.0 GDL
 
 Sistema de gestión de infracciones de movilidad
-## Versión 2.4.6
+## Versión 2.4.7
 
 **Correcciones:**
-- Impresiones sin concepto ni monto.
-- Recepción de alertas rojas creadas por el mismo usuario.
-- El agente no podrá cambiar la hora ni la matrícula en la pantalla de la infracción.
+- Petición de multiples fotos
 
 **Mejoras:**
 
-- Chat
+- Bitacora de Dispositivos y versiones
 
-- Ubicación del levantamiento de alertas rojas.
-
-- Recepción de reportes creados desde el sistema.
+- Muesta si cuenta con permisos al consultar
 
 **Eliminaciones:**
 
