@@ -5,19 +5,19 @@
 # MOVILIDAD 2.0 GDL
 
 Sistema de gestión de infracciones de movilidad
-## Versión 2.4.7
+## Versión 2.5.0
 
 **Correcciones:**
-- Petición de multiples fotos
+- Foliaje de repetido entre agentes.
+- Infracciones en sistema con fotos de otras infracciones.
 
 **Mejoras:**
-
-- Bitacora de Dispositivos y versiones
-
-- Muesta si cuenta con permisos al consultar
+- Notificación de progreso de infracciones subidas a parkimovil.
+- Bloqueo de botón 'Ocupar Lugar' al momento de consultar parkimovil.
+- Botón para reintentar subir una infracción a parkimovil.
+- Modularización de parkimovil.
 
 **Eliminaciones:**
-
 - No hubo eliminaciones.
 
 ## Información técnica
