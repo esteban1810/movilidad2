@@ -5,7 +5,7 @@
 # MOVILIDAD 2.0 GDL
 
 Sistema de gestión de infracciones de movilidad
-## Versión 2.5.2
+## Versión 2.5.4
 
 **Correcciones:**
 - Folios duplicados. Se corrigió la asignación y creación de folios.
